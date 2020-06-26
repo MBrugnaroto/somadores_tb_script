@@ -1,0 +1,36 @@
+C:/Trabalho4/RippleCarry.vhd {1 {vcom -work work -2002 -explicit C:/Trabalho4/RippleCarry.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RippleCarry
+-- Compiling architecture Struct of RippleCarry
+
+} {} {}} C:/Trabalho4/somador_tb.vhd {1 {vcom -work work -2002 -explicit C:/Trabalho4/somador_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity somador_tb
+-- Compiling architecture hardware of somador_tb
+
+} {} {}} C:/Trabalho4/FullAdder.vhd {1 {vcom -work work -2002 -explicit C:/Trabalho4/FullAdder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FullAdder
+-- Compiling architecture Adder of FullAdder
+
+} {} {}} C:/Trabalho4/reg32.vhd {1 {vcom -work work -2002 -explicit C:/Trabalho4/reg32.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity reg32
+-- Compiling architecture a of reg32
+
+} {} {}}
